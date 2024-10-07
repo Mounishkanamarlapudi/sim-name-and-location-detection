@@ -14,4 +14,4 @@ This project uses Python's `phonenumbers` library to detect the geographic locat
 To run this project, you will need the following:
 
 - Python 3.x
-- `phonenumbers` library (details provided in the installation section)
+- `phonenumbers` library 
